@@ -21,7 +21,7 @@ tests/report/
 node_modules
 *~
 *.pyc
-static
+#static
 .grunt
 _SpecRunner.html
 __benchmarks__
