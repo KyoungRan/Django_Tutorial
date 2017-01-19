@@ -1,4 +1,4 @@
-# Django_Tutorial
+# Django_ex
 
 * Virtual Environments
 
